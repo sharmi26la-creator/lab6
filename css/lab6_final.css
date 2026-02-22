@@ -116,6 +116,10 @@ h2 strong {
   text-align: center;
 }
 
+#center iframe {
+  border: 0;
+}
+
 strong {
   font-weight: 900;
   font-size: 48px;
